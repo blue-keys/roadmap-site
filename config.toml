@@ -1,6 +1,6 @@
-baseURL = "https://bluekeys.org"
+baseURL = "./"
 title   = "Timeline"
-languageCode = "en-us"
+languageCode = "fr-fr"
 theme = "timeline"
 
 PygmentsCodeFences = true

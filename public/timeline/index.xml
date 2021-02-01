@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Timelines on Timeline</title>
-        <link>https://bluekeys.org/timeline/</link>
+        <link>./timeline/</link>
         <description>Recent content in Timelines on Timeline</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>fr-fr</language>
         <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://bluekeys.org/timeline/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="./timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Lorem Ipsum Dolor</title>
-            <link>https://bluekeys.org/timeline/lorem_ipsum_dolor/</link>
+            <link>./timeline/lorem_ipsum_dolor/</link>
             <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://bluekeys.org/timeline/lorem_ipsum_dolor/</guid>
+            <guid>./timeline/lorem_ipsum_dolor/</guid>
             <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
@@ -25,10 +25,10 @@
         
         <item>
             <title>Sapien faucibus</title>
-            <link>https://bluekeys.org/timeline/sapien_faucibus/</link>
+            <link>./timeline/sapien_faucibus/</link>
             <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://bluekeys.org/timeline/sapien_faucibus/</guid>
+            <guid>./timeline/sapien_faucibus/</guid>
             <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
@@ -40,10 +40,10 @@
         
         <item>
             <title>Amet Mauris</title>
-            <link>https://bluekeys.org/timeline/amet_mauris/</link>
+            <link>./timeline/amet_mauris/</link>
             <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://bluekeys.org/timeline/amet_mauris/</guid>
+            <guid>./timeline/amet_mauris/</guid>
             <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
@@ -54,10 +54,10 @@
         
         <item>
             <title>Getting Started</title>
-            <link>https://bluekeys.org/timeline/lorem_ipsum/</link>
+            <link>./timeline/lorem_ipsum/</link>
             <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://bluekeys.org/timeline/lorem_ipsum/</guid>
+            <guid>./timeline/lorem_ipsum/</guid>
             <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>

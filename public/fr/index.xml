@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timeline</title>
-    <link>https://bluekeys.org/fr/</link>
+    <link>./fr/</link>
     <description>Recent content on Timeline</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <copyright>&lt;a href=&#34;https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;</copyright>
     
-	<atom:link href="https://bluekeys.org/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./fr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

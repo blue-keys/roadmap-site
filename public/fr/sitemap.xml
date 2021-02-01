@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bluekeys.org/fr/categories/</loc>
+    <loc>./fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/categories/"
+                href="./categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/categories/"
+                href="./fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/fr/series/</loc>
+    <loc>./fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/series/"
+                href="./series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/series/"
+                href="./fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/fr/tags/</loc>
+    <loc>./fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/tags/"
+                href="./tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/tags/"
+                href="./fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/fr/</loc>
+    <loc>./fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/"
+                href="./"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/"
+                href="./fr/"
                 />
   </url>
   

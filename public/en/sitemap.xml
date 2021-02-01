@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bluekeys.org/timeline/lorem_ipsum_dolor/</loc>
+    <loc>./timeline/lorem_ipsum_dolor/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bluekeys.org/timeline/sapien_faucibus/</loc>
+    <loc>./timeline/sapien_faucibus/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bluekeys.org/timeline/amet_mauris/</loc>
+    <loc>./timeline/amet_mauris/</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bluekeys.org/timeline/lorem_ipsum/</loc>
+    <loc>./timeline/lorem_ipsum/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bluekeys.org/</loc>
+    <loc>./</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/"
+                href="./fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/"
+                href="./"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/timeline/</loc>
+    <loc>./timeline/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bluekeys.org/categories/</loc>
+    <loc>./categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/categories/"
+                href="./fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/categories/"
+                href="./categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/series/</loc>
+    <loc>./series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/series/"
+                href="./fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/series/"
+                href="./series/"
                 />
   </url>
   
   <url>
-    <loc>https://bluekeys.org/tags/</loc>
+    <loc>./tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bluekeys.org/fr/tags/"
+                href="./fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bluekeys.org/tags/"
+                href="./tags/"
                 />
   </url>
   

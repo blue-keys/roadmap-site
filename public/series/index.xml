@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Timeline</title>
-    <link>https://bluekeys.org/series/</link>
+    <link>./series/</link>
     <description>Recent content in Series on Timeline</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     
-	<atom:link href="https://bluekeys.org/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
